@@ -4,12 +4,12 @@ import "./index.css";
 // import App from './App';
 import reportWebVitals from "./reportWebVitals";
 
-import NotificationList from "./chapter_06/NotificationList";
+import ProfileCard from "./chapter_13/ProfileCard";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <NotificationList />
+    <ProfileCard />
   </React.StrictMode>
 );
 
