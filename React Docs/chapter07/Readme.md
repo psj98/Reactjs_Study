@@ -1,7 +1,5 @@
 ## Hooks
 
-<br>
-
 ### useState()
 
 **useState란?**
