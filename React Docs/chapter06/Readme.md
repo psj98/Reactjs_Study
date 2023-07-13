@@ -1,4 +1,4 @@
-### State
+## State
 
 - React Component의 상태
 - React Component의 변경 가능한 데이터
@@ -33,7 +33,7 @@ this.setState({
 
 ---
 
-### LifeCycle
+## LifeCycle
 
 - React Component의 생명 주기
   - 컴포넌트가 생성되는 시점과 소멸되는 시점
