@@ -1,7 +1,5 @@
 ## Components와 Props
 
-<br/>
-
 ### Components
 
 **특징**
